@@ -1,0 +1,2 @@
+Git es un software de versionado
+ej git version 3.38
